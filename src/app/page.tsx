@@ -1,5 +1,4 @@
 "use client"
-import Image from "next/image";
 import { useTheme } from '@/components/ui/theme/ThemeProvider';
 import { motion } from 'framer-motion';
 import { SunIcon, MoonIcon } from '@heroicons/react/24/outline';
